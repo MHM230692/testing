@@ -26,6 +26,8 @@
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
+    NSString *ss = @"3rd change";
+    NSString *sss = @"3rd change";
 }
 
 
